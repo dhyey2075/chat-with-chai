@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   icons: {
-    icon: "/logo.png",
-    shortcut: "/logo.png",
-    apple: "/logo.png",
+    icon: "logo.ico",
+    shortcut: "logo.ico",
+    apple: "logo.ico",
   },
   title: "Chat With Chai",
   description: "This project features AI personas modeled after renowned educators Hitesh Choudhary and Piyush Garg. These AI assistants emulate their teaching styles, providing guidance in software development",
