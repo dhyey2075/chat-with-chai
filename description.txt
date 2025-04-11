@@ -1,0 +1,17 @@
+# GenAI Persona AI Project
+
+An innovative AI project focused on generating and analyzing different personas for conversational AI systems. This repository contains tools and methodologies for creating more human-like and context-aware AI interactions.
+
+## Key Features
+- Persona generation frameworks
+- Conversational AI models
+- Context-aware response systems
+- Training datasets and examples
+
+## Technologies
+- Python
+- Natural Language Processing
+- Machine Learning
+- Deep Learning
+
+Built as part of GenAI Cohort learning program.
